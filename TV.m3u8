@@ -35,6 +35,12 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4271
 #EXTINF:0,MyTV
 #EXTGRP:Lokal
 http://210.210.155.35:80/qwr9ew/s/s46/02.m3u8
+#EXTINF:0,BESMART
+#EXTGRP:News
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4252
+#EXTINF:0,MNC ENTERTAINMENT
+#EXTGRP:Lokal
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4310
 #EXTINF:0,BERITA SATU
 #EXTGRP:Lokal
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
@@ -62,9 +68,6 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4315
 #EXTINF:0,TVRI
 #EXTGRP:Lokal
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4312
-#EXTINF:0,MNC ENTERTAINMENT
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4310
 #EXTINF:0,IDX
 #EXTGRP:Lokal
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4305
@@ -104,6 +107,9 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4206
 #EXTINF:0,BABYTV
 #EXTGRP:Kids
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4191
+#EXTINF:0,BOOMERANG
+#EXTGRP:Kids
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4205
 #EXTINF:0,HBO Max1
 #EXTGRP:Movies
 http://red.ipfox.org:8080/Karim2_534341/40036069/30481
@@ -125,30 +131,39 @@ http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/
 #EXTINF:0,THRILL
 #EXTGRP:Movies
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4321
-#EXTINF:0,ZEE BIOSKOP
+#EXTINF:0,FOX
 #EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4298
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4224
+#EXTINF:0,FOX LIFE
+#EXTGRP:Movies
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4226
 #EXTINF:0,FOX MOVIES
 #EXTGRP:Movies
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4218
+#EXTINF:0,FOX MOVIES ACTION
+#EXTGRP:Movies
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4197
+#EXTINF:0,FOX FAMILY MOVIES
+#EXTGRP:Movies
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4215
+#EXTINF:0,FOX CRIME
+#EXTGRP:Movies
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4217
 #EXTINF:0,CELESTIAL MOVIES
 #EXTGRP:Movies
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4292
 #EXTINF:0,KIX
 #EXTGRP:Movies
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4289
-#EXTINF:0,ZEETV
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4281
-#EXTINF:0,ZEE CINEMA
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4269
 #EXTINF:0,HGTV
 #EXTGRP:Movies
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4237
 #EXTINF:0,HITS
 #EXTGRP:Movies
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4236
+#EXTINF:0,HITS MOVIES
+#EXTGRP:Movies
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4214
 #EXTINF:0,SCM
 #EXTGRP:Movies
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4233
@@ -167,21 +182,9 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4229
 #EXTINF:0,SONY ONE
 #EXTGRP:Movies
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4227
-#EXTINF:0,FOX
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4224
-#EXTINF:0,TVHD
+#EXTINF:0,&TVHD
 #EXTGRP:Movies
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4216
-#EXTINF:0,FOX MOVIES ACTION
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4197
-#EXTINF:0,FOX FAMILY MOVIES
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4215
-#EXTINF:0,HITS MOVIES
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4214
 #EXTINF:0,TVN
 #EXTGRP:Movies
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4213
@@ -194,9 +197,27 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4211
 #EXTINF:0,WARNERTV
 #EXTGRP:Movies
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4207
-#EXTINF:0,V CHANNEL
+#EXTINF:0,CRIME INVESTIGATION
 #EXTGRP:Movies
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4260
+#EXTINF:0,LIFETIME
+#EXTGRP:News
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4282
+#EXTINF:0,ZEETV
+#EXTGRP:Movies
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4281
+#EXTINF:0,ZEE CINEMA
+#EXTGRP:Movies
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4269
+#EXTINF:0,ZEE BIOSKOP
+#EXTGRP:Movies
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4298
+#EXTINF:0,V CHANNEL
+#EXTGRP:Music
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4192
+#EXTINF:0,FMN
+#EXTGRP:Music
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4275
 #EXTINF:0,ASIAN FOOD CHANNEL
 #EXTGRP:Edu
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4290
@@ -221,6 +242,12 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4195
 #EXTINF:0,Waku Waku Japan
 #EXTGRP:Edu
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4232
+#EXTINF:0,AL QURAN AL KAREM
+#EXTGRP:News
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4263
+#EXTINF:0,TAWAFTV
+#EXTGRP:News
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/86499
 #EXTINF:0,EURONEWS
 #EXTGRP:News
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4293
@@ -233,15 +260,6 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4288
 #EXTINF:0,NHK WORLD PREMIUM
 #EXTGRP:News
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4286
-#EXTINF:0,LIFETIME
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4282
-#EXTINF:0,FMN
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4275
-#EXTINF:0,AL QURAN AL KAREM
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4263
 #EXTINF:0,NEWS ASIA CHANNEL
 #EXTGRP:News
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4256
@@ -251,39 +269,21 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #EXTINF:0,ZEE NEWS
 #EXTGRP:News
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4261
-#EXTINF:0,CRIME INVESTIGATION
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4260
 #EXTINF:0,ABC AUSTRALIA
 #EXTGRP:News
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4259
-#EXTINF:0,BESMART
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4252
 #EXTINF:0,BLOOMBERG
 #EXTGRP:News
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4248
 #EXTINF:0,FRANCE24
 #EXTGRP:News
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4245
-#EXTINF:0,FOX LIFE
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4226
 #EXTINF:0,TRT WORLD
 #EXTGRP:News
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4220
-#EXTINF:0,FOX CRIME
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4217
-#EXTINF:0,BOOMERANG
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4205
 #EXTINF:0,RT
 #EXTGRP:News
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4203
-#EXTINF:0,TAWAFTV
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/86499
 #EXTINF:0,NHK WORLD JAPAN
 #EXTGRP:News
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4295
