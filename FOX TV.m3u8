@@ -1,0 +1,11 @@
+//FOX
+#EXTINF:100,FOX CRIME
+http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:100,FOX ACTION
+http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:0,FOX LIFE
+http://50.7.161.82:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:0,FOX MOVIES
+http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ENTERTREND_BOZ",FOX Action Movies FHD
+https://nonton.site:8443/novi/novi123/1478
