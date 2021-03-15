@@ -1,307 +1,149 @@
 #EXTM3U
-#EXTINF:0,INDOSIAR
-#EXTGRP:Lokal
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4CO72_Ri2PXr4kMjqf3t-fJ4hSc=/72x72/smart/filters:quality(80):format(webp)/vidio-web-prod-user/uploads/user/avatar/12/indosiar-6d1363.jpg" tvg-id="RIYAN.60f1e37e451cccb875d6895d84613f99.SHINTA" tvg-name"Indosiar" group-title="LOCAL",Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
-#EXTINF:0,NET.
-#EXTGRP:Lokal
-http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
-#EXTINF:0,TRANS7
-#EXTGRP:Lokal
-http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8
-#EXTINF:0,TRANSTV
-#EXTGRP:Lokal
-http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8
-#EXTINF:0,SCTV
-#EXTGRP:Lokal
-http://210.210.155.35:80/qwr9ew/s/s03/02.m3u8
-#EXTINF:0,RCTI
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4204
-#EXTINF:0,MNCTV
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4317
-#EXTINF:0,MNC CHANNEL
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4257
-#EXTINF:0,GTV
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4319
-#EXTINF:0,ANTV
-#EXTGRP:Lokal
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LHw7xDruwBTN453hoxcbt04esCM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/52a30a.png" tvg-id="RIYAN.60f1e37e451cccb875d6895d84613f99.SHINTA" tvg-name"Indosiar" group-title="LOCAL",Indosiar HD
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s_QkQLWl7HHckGEdTP0SLF263Dc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/f088c8.png" tvg-id="RIYAN.f6718d09bdb050c77983158d8c3831d0.SHINTA" tvg-name"NET TV" group-title="LOCAL",NET TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.afc727e6e4d8742bb80cb40e0bc77379.SHINTA" tvg-name"TRANS TV" group-title="LOCAL",TRANS TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6J9ZhPcm2bkBAxRHFFujiFjCDl0=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/25a886.png" tvg-id="RIYAN.2d378a21bb3e65a277974b0af7b5faf9.SHINTA" tvg-name"Trans7" group-title="LOCAL",Trans7
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.b4b626070087b592265e208fd01e3c49.SHINTA" tvg-name"MNC" group-title="LOCAL",MNC
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.5e344c56616f684a14886b3466020379.SHINTA" tvg-name"RCTI" group-title="LOCAL",RCTI
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.b967f5fe430bedc572bea6590fab03f1.SHINTA" tvg-name"GTV" group-title="LOCAL",GTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708e102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XO2UZvzbejnywcM2yiS7QjX5r3Y=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/5da027.png" tvg-id="RIYAN.31744e15c1380feb590ce03c9c673c3c.SHINTA" tvg-name"SCTV" group-title="LOCAL",SCTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tuFUh0h-gokL4Xi8SIpwAypv8dY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/a4981b.png" tvg-id="RIYAN.c4b3766f70410e0531b16be1f090df51.SHINTA" tvg-name"RTV" group-title="LOCAL",RTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-phU9_QRjXTgyeaJTGM79SRar3s=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" tvg-id="RIYAN.f633b2e34ac6828aea72baac760ac07e.SHINTA" tvg-name"MyTV" group-title="LOCAL",MyTV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL",ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/02.m3u8
-#EXTINF:0,RTV
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4271
-#EXTINF:0,MyTV
-#EXTGRP:Lokal
-http://210.210.155.35:80/qwr9ew/s/s46/02.m3u8
-#EXTINF:0,BESMART
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4252
-#EXTINF:0,MNC ENTERTAINMENT
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4310
-#EXTINF:0,BERITA SATU
-#EXTGRP:Lokal
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:0,TV ONE
-#EXTGRP:Lokal
-http://210.210.155.35:80/qwr9ew/s/s105/02.m3u8
-#EXTINF:0,JAKTV
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4253
-#EXTINF:0,KOMPASTV
-#EXTGRP:Lokal
-http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
-#EXTINF:0,CNN
-#EXTGRP:Lokal
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:0,CNBC
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4280
-#EXTINF:0,METROTV
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4318
-#EXTINF:0,INEWS
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4315
-#EXTINF:0,TVRI
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4312
-#EXTINF:0,IDX
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4305
-#EXTINF:0,BALITV
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4284
-#EXTINF:0,VISION PRIME
-#EXTGRP:Lokal
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4294
-#EXTINF:0,KIDSTV
-#EXTGRP:Kids
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4297
-#EXTINF:0,MIAOMI
-#EXTGRP:Kids
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4255
-#EXTINF:0,DISNEY JUNIOR
-#EXTGRP:Kids
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4270
-#EXTINF:0,NICK
-#EXTGRP:Kids
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4268
-#EXTINF:0,NICKJR
-#EXTGRP:Kids
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4254
-#EXTINF:0,ANIMAX
-#EXTGRP:Kids
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4228
-#EXTINF:0,DISNEY CHANNEL
-#EXTGRP:Kids
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4209
-#EXTINF:0,DISNEY XD
-#EXTGRP:Kids
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4208
-#EXTINF:0,CARTOON NETWORK
-#EXTGRP:Kids
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4206
-#EXTINF:0,BABYTV
-#EXTGRP:Kids
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4191
-#EXTINF:0,BOOMERANG
-#EXTGRP:Kids
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4205
-#EXTINF:0,HBO Max1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL",TVONE
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXL66eqWjcsfy6MRv_Midv048UE=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/0002e6.png" tvg-id="RIYAN.be88f07ab070edf8bb3390a6f29f60e2.SHINTA" tvg-name"Kompas TV" group-title="LOCAL",Kompas TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3xt6dwBAkEERQGv9ZKuicf0jGhw=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/886adc.png" tvg-id="RIYAN.c7bdd84afe7794d66a423a66684ee342.SHINTA" tvg-name"BeritaSatu" group-title="LOCAL",BeritaSatu
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3qJzB7DThwYsbWIrCcCtAnWHoTM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/6d4e21.png" tvg-id="RIYAN.893f2a17819d16ba9738997c97b4bee7.SHINTA" tvg-name"Metro TV" group-title="NEWS",Metro TV
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9eZPRxKXRyvalrrGmOUxBnpUcOc=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" tvg-id="RIYAN.59634ceb8f5c36bac502719c182491ff.SHINTA" tvg-name"TVRI" group-title="LOCAL",TVRI
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qUUDKcQCDBOzImtqFHk7Lm5EA3A=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" tvg-id="RIYAN.3157660a2c6ab9539f5df7bc2d9da9d8.SHINTA" tvg-name"iNews" group-title="LOCAL",iNews
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1102a6ed6587b5b8cb4ebbe972864690b
+
+
+
+#EXTINF:0,BizKids
+#EXTGRP:KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:0,Cbeebies
+#EXTGRP:KIDS
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gKZzJQlnbkDh4yK7k7QGNuOPuAE=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/ec097d.png" tvg-id="RIYAN.e6f7bad3ba539f7dc04b827272ebaf84.SHINTA" tvg-name"Hip Hip Horee!" group-title="KIDS",Hip Hip Horee!
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/STe84feg1i6KlL2HUbcZT_ocKLk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" tvg-id="RIYAN.77b7751318c75ba1d139b84aca7f8219.SHINTA" tvg-name"Zoomoo" group-title="KIDS",Zoomoo
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2xClnKTi4YEdc9K1dYqp0JnaI68=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6549/da-vinci-ef222f.jpg" tvg-id="RIYAN.bfa6425e2e4de44193d6678cde321520.SHINTA" tvg-name"Da Vinci" group-title="KIDS",Da Vinci
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/iZMVt657Jkn-fkpQwO84q7CMC5I=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-5c45d3.jpg" tvg-id="RIYAN.cff2e40f7a619035eaeee76156e88b79.SHINTA" tvg-name"Horee" group-title="KIDS",Horee
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=5e62d03aec0d17facfc5355dd90d441c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="RIYAN.bbd869b252ece1ba2c11c20af37451ed.SHINTA" tvg-name"Smithsonian" group-title="KNOWLEDGE",Smithsonian
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="RIYAN.30bdf3636b9c378e8eec0037fd93f827.SHINTA" tvg-name"Love Nature" group-title="KNOWLEDGE",Love Nature
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/h5vOznosCDqjOS8uzAzYjpcbWYE=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" tvg-id="RIYAN.59098874c7e313db483c56dcd5d6adc1.SHINTA" tvg-name"TV Edukasi" group-title="KNOWLEDGE",TV Edukasi
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce102a6ed6587b5b8cb4ebbe972864690b
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/r_hHy-0yyOqMWkG_USKHWkYIjvA=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/9869f1.png" tvg-id="RIYAN.0cd1311ac76212426cc8443617a7f4d1.SHINTA" tvg-name"TVN" group-title="ENTERTAINMENT",TVN
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,K+
+#EXTGRP:ENTERTAINMENT
+http://210.210.155.35/session/c74a75b8-0196-11ea-bbc1-c81f66f89318/uq2663/h/h08/index.m3u8
+#EXTINF:0,KIX
+#EXTGRP:ENTERTAINMENT
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:0,Cinema World
+#EXTGRP:ENTERTAINMENT
+http://210.210.155.35/session/4b609526-4bf3-11e9-9bd8-afdb8d9eb786/uq2663/h/h04/02.m3u8
+#EXTINF:0,Celestial
+#EXTGRP:ENTERTAINMENT
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+#EXTINF:0,AXN
+#EXTGRP:ENTERTAINMENT
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:0,THRILL
+#EXTGRP:ENTERTAINMENT
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:0,My Cinema
+#EXTGRP:ENTERTAINMENT
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:0,MoviesX
+#EXTGRP:ENTERTAINMENT
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0,&priveHD
+#EXTGRP:ENTERTAINMENT
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0,&flixHD
+#EXTGRP:ENTERTAINMENT
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0,ZQTV
+#EXTGRP:ENTERTAINMENT
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:0,ATV
+#EXTGRP:ENTERTAINMENT
+http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
+#EXTINF:0,HBO East
+#EXTGRP:ENTERTAINMENT
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:0,BlueAnt Entertainment
+#EXTGRP:ENTERTAINMENT
+http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
+#EXTINF:0,BlueAnt Extreme
+#EXTGRP:ENTERTAINMENT
+http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
+
+#EXTINF:99,HBO HD
+#EXTVLCOPT:network-caching=1000
+https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:0,HBO ID
+#EXTGRP:HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:0,HBO FAMILY
+#EXTGRP:HBO
+https://nonton.site:8443/novi/novi123/30184
+#EXTINF:0,HBO HITS
+#EXTGRP:HBO
+https://nonton.site:8443/novi/novi123/11492
+#EXTINF:0,HBO SIGNATURE
+#EXTGRP:HBO
+https://nonton.site:8443/novi/novi123/1498
+#EXTINF:0,RED HBO
+#EXTGRP:HBO
+https://nonton.site:8443/novi/novi123/4832
+
+
+#EXTINF:0,HBOMAX1
 #EXTGRP:Movies
 http://red.ipfox.org:8080/Karim2_534341/40036069/30481
-#EXTINF:0,HBO Max2
+#EXTINF:0,HBOMAX2
 #EXTGRP:Movies
 http://red.ipfox.org:8080/Karim2_534341/40036069/30480
-#EXTINF:0,HBO Max3
+#EXTINF:0,HBOMAX3
 #EXTGRP:Movies
 http://red.ipfox.org:8080/Karim2_534341/40036069/30479
-#EXTINF:0,HBO Max4
+#EXTINF:0,HBOMAX4
 #EXTGRP:Movies
 http://red.ipfox.org:8080/Karim2_534341/40036069/30478
-#EXTINF:0,Blue Ant Entertainment
-#EXTGRP:Movies
-http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
-#EXTINF:0,Blue Ant Extreme
-#EXTGRP:Movies
-http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
-#EXTINF:0,THRILL
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4321
-#EXTINF:0,FOX
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4224
-#EXTINF:0,FOX LIFE
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4226
-#EXTINF:0,FOX MOVIES
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4218
-#EXTINF:0,FOX MOVIES ACTION
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4197
-#EXTINF:0,FOX FAMILY MOVIES
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4215
-#EXTINF:0,FOX CRIME
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4217
-#EXTINF:0,CELESTIAL MOVIES
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4292
-#EXTINF:0,KIX
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4289
-#EXTINF:0,HGTV
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4237
-#EXTINF:0,HITS
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4236
-#EXTINF:0,HITS MOVIES
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4214
-#EXTINF:0,SCM
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4233
-#EXTINF:0,SCM LEGEND
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4196
-#EXTINF:0,AXN
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4231
-#EXTINF:0,TLC
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4230
-#EXTINF:0,CINEMA WORLD
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4229
-#EXTINF:0,SONY ONE
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4227
-#EXTINF:0,&TVHD
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4216
-#EXTINF:0,TVN
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4213
-#EXTINF:0,TVN MOVIES
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4212
-#EXTINF:0,CINEMAX
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4211
-#EXTINF:0,WARNERTV
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4207
-#EXTINF:0,CRIME INVESTIGATION
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4260
-#EXTINF:0,LIFETIME
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4282
-#EXTINF:0,ZEETV
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4281
-#EXTINF:0,ZEE CINEMA
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4269
-#EXTINF:0,ZEE BIOSKOP
-#EXTGRP:Movies
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4298
-#EXTINF:0,V CHANNEL
-#EXTGRP:Music
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4192
-#EXTINF:0,FMN
-#EXTGRP:Music
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4275
-#EXTINF:0,ASIAN FOOD CHANNEL
-#EXTGRP:Edu
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4290
-#EXTINF:0,HISTORY
-#EXTGRP:Edu
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4243
-#EXTINF:0,NAT GEO PEOPLE
-#EXTGRP:Edu
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4238
-#EXTINF:0,NAT GEO WILD
-#EXTGRP:Edu
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4223
-#EXTINF:0,DISCOVERY CHANNEL
-#EXTGRP:Edu
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4219
-#EXTINF:0,ANIMAL PLANET
-#EXTGRP:Edu
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4210
-#EXTINF:0,NAT GEO
-#EXTGRP:Edu
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4195
-#EXTINF:0,Waku Waku Japan
-#EXTGRP:Edu
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4232
-#EXTINF:0,AL QURAN AL KAREM
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4263
-#EXTINF:0,TAWAFTV
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/86499
-#EXTINF:0,EURONEWS
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4293
-#EXTINF:0,ARIRANG KOREA
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4291
-#EXTINF:0,FOX NEWS
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4288
-#EXTINF:0,NHK WORLD PREMIUM
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4286
-#EXTINF:0,NEWS ASIA CHANNEL
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4256
-#EXTINF:0,NEWS ASIA CHANNEL_2
-#EXTGRP:News
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:0,ZEE NEWS
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4261
-#EXTINF:0,ABC AUSTRALIA
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4259
-#EXTINF:0,BLOOMBERG
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4248
-#EXTINF:0,FRANCE24
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4245
-#EXTINF:0,TRT WORLD
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4220
-#EXTINF:0,RT
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4203
-#EXTINF:0,NHK WORLD JAPAN
-#EXTGRP:News
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4295
-#EXTINF:0,FOX SPORTS 1
-#EXTGRP:Sport
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4235
-#EXTINF:0,FOX SPORTS 2
-#EXTGRP:Sport
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4222
-#EXTINF:0,FOX SPORTS 3
-#EXTGRP:Sport
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4241
-#EXTINF:0,FIGHT SPORTS
-#EXTGRP:Sport
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4193
-#EXTINF:0,MNC SPORTS 1
-#EXTGRP:Sport
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4299
-#EXTINF:0,MNC SPORTS2
-#EXTGRP:Sport
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4300
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/bWLk0OhTR0PkXuleHWcWAZnuW8k=/640x360/filters:quality(90):strip_icc()/vidio-media-production/uploads/livestreaming/schedule/thumbnail/954475/1a4720.jpg" tvg-id="RIYAN.c99f00781e4b335be043dfaaa4345fe0.SHINTA" tvg-name"Champions TV 1" group-title="SPORTS",Champions TV 1
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ngiMfClFCMtOj_k-DBo3A2obYsk=/640x360/filters:quality(90):strip_icc()/vidio-media-production/uploads/livestreaming/schedule/thumbnail/954603/16c454.jpg" tvg-id="RIYAN.0c4351f653c9a19a252816600a068576.SHINTA" tvg-name"Champions TV 2" group-title="SPORTS",Champions TV 2
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.a0337249bb1655b06e9b8041de717a46.SHINTA" tvg-name"Champions TV 3" group-title="SPORTS",Champions TV 3
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
