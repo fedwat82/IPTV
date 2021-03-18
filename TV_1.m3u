@@ -1,0 +1,1416 @@
+#EXTM3U
+#EXTINF:60,INDOSIAR
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
+#EXTINF:0,INDOSIAR
+#EXTVLCOPT:network-caching=1000
+http://103.55.39.182/~dusktil2/a.m3u8?q=indosiar
+#EXTINF:0,Indosiar
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,NET TV
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,TRANS TV
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Trans7
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,MNC
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,RCTI
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,GTV
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708e102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,SCTV
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,RTV
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Ochannel
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,ANTV _DENS
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:0,Nusantara TV
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,TVONE _DENS
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+#EXTINF:0,Kompas TV
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,BeritaSatu
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Metro TV
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,AJWA TV
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,TVRI
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Jaktv
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,iNews
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,OShop
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,MyTV
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,DAAI TV
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Hip Hip Horee!
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Zoomoo
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Da Vinci
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Horee
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=5e62d03aec0d17facfc5355dd90d441c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Smithsonian
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:30,Love Nature
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:30,TVN
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Citra Bioskop
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Citra Drama
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=012d9fe15b2493f21902cd55603382ec102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Citra Dangdut
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=2e2c4bf7ceaa4712a72dd5ee136dc9a8102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Citra Entertainment
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=72c25197b6a491816d9a84b42d7205f0102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:60,SINEMA INDONESIA
+#EXTVLCOPT:network-caching=1000
+http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
+#EXTINF:0,TVRI NASIONAL
+#EXTVLCOPT:network-caching=1000
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:0,TVRI Sport
+#EXTVLCOPT:network-caching=1000
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:0,TVRI BUDAYA
+#EXTVLCOPT:network-caching=1000
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:0,TVRI JAWA TENGAH
+#EXTVLCOPT:network-caching=1000
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+#EXTINF:0,TVRI YOGYAKARTA
+#EXTVLCOPT:network-caching=1000
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+#EXTINF:0,Drakor Plus
+#EXTVLCOPT:network-caching=1000
+http://103.55.39.182/~dusktil2/a.m3u8?q=drakorplus
+#EXTINF:0,K DRAMA
+#EXTVLCOPT:network-caching=1000
+http://103.55.39.182/~dusktil2/a.m3u8?q=k-drama
+#EXTINF:0,GO TO LUXE
+#EXTVLCOPT:network-caching=1000
+http://103.55.39.182/~dusktil2/a.m3u8?q=gotoluxe
+#EXTINF:0,CHANNEL V CHINA
+#EXTVLCOPT:network-caching=1000
+http://103.55.39.182/~dusktil2/a.m3u8?q=vchina
+#EXTINF:0,SPACETOON
+#EXTVLCOPT:network-caching=1000
+http://103.55.39.182/~dusktil2/a.m3u8?q=spacetoon
+#EXTINF:0,TVRI SPORT
+#EXTVLCOPT:network-caching=1000
+http://103.55.39.182/~dusktil2/a.m3u8?q=tvrisport
+#EXTINF:0,SPORT ONE
+#EXTVLCOPT:network-caching=1000
+http://103.55.39.182/~dusktil2/a.m3u8?q=sportone
+#EXTINF:99,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:100, CHANNEL 5
+#EXTVLCOPT:network-caching=1000
+http://50.7.222.130:8278/streams/d/Channel5/playlist.m3u8
+#EXTINF:0,CHANNEL 8
+#EXTVLCOPT:network-caching=1000
+http://50.7.222.130:8278/streams/d/Channel8/playlist.m3u8
+#EXTINF:0,Simpang5Tv
+#EXTVLCOPT:network-caching=1000
+http://122.248.43.138:1935/ch4/myStream/live.m3u8
+#EXTINF:0,GTV+
+#EXTVLCOPT:network-caching=1000
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:0,RCTI
+#EXTVLCOPT:network-caching=1000
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:0,MNC HD
+#EXTVLCOPT:network-caching=1000
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:0,I NEWS HD
+#EXTVLCOPT:network-caching=1000
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:0,DigiOne MAXstream
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:0,Magna TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTINF:0,JGO
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:0,Tegar TV Lampung
+#EXTVLCOPT:network-caching=1000
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+#EXTINF:0,Bandung TV
+#EXTVLCOPT:network-caching=1000
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:0,BTV Balikpapan
+#EXTVLCOPT:network-caching=1000
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:0,Jek TV Jambi
+#EXTVLCOPT:network-caching=1000
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
+#EXTINF:0,BETV Bengkulu
+#EXTVLCOPT:network-caching=1000
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:0, MTA TV (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+#EXTINF:0, MTA TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/index.m3u8
+#EXTINF:0,RODJA TV (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+#EXTINF:0,RODJA TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#EXTINF:0,MYTV (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
+#EXTINF:0,MYTV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/index.m3u8
+#EXTINF:0,MCC (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
+#EXTINF:0,MCC
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(65705b01-b9ee-4be2-87cf-69331406a9c0)/index.m3u8
+#EXTINF:0, UseePrime (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:0, UseePrime
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:0,Prambors (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(5704e29c-7c25-4f2a-bfb5-0247b28fc60b)/manifest.mpd
+#EXTINF:0,Prambors
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2ce6c44c-c56a-2cd7-c30e-271ef6b31ce9)/index.m3u8
+#EXTINF:0, Ruang Trampil (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
+#EXTINF:0, Ruang Trampil
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+#EXTINF:0,JAK TV (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+#EXTINF:0,JAK TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+#EXTINF:0, JTV (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+#EXTINF:0, JTV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#EXTINF:0,MAXstream Music (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
+#EXTINF:0,MAXstream Music
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/index.m3u8
+#EXTINF:0,DIGIONE MAXstream (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:0,DIGIONE MAXstream
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:0,Magna TV (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTINF:0,Magna TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/index.m3u8
+#EXTINF:0,Hi Indo (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
+#EXTINF:0,Hi Indo
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
+#EXTINF:0,RTV (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+#EXTINF:0,RTV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:0,Channel 4U (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+#EXTINF:0,Channel 4U
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+#EXTINF:0,The Indonesia Channel (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+#EXTINF:0,The Indonesia Channel
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:0, Usee Photo (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+#EXTINF:0, Usee Photo
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#EXTINF:0, Bali TV (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+#EXTINF:0, Bali TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#EXTINF:0,Dunia Games TV (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+#EXTINF:0,Dunia Games TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+#EXTINF:0,TV Edukasi (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+#EXTINF:0,TV Edukasi
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/index.m3u8
+#EXTINF:0,METRO TV (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:0,METRO TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+#EXTINF:0, SEA TODAY (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:0, SEA TODAY
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
+#EXTINF:0,KOMPAS TV (MPD)
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+#EXTINF:0,KOMPAS TV
+#EXTVLCOPT:network-caching=1000
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:0,ATV
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/29899
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/9
+#EXTINF:0,Bioskop Indonesia
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/908
+#EXTINF:0,Blue Ant Extreme HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/811
+#EXTINF:0,CCM
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/2118
+#EXTINF:0,Celestial Movies
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/5
+#EXTINF:0,Cinema World
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1194
+#EXTINF:0,Cinemax FHD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/30185
+#EXTINF:0,Cinemax ID
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/2156
+#EXTINF:0,Cinemax SD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/26599
+#EXTINF:0,FLIK HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/29592
+#EXTINF:0,FMN
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/11489
+#EXTINF:0,FOX Action Movies FHD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1478
+#EXTINF:0,FOX Action Movies HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/99
+#EXTINF:0,FOX Crime HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/763
+#EXTINF:0,FOX Family Movies ID
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/14994
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/95
+#EXTINF:0,FOX Life HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/94
+#EXTINF:0,FOX Movies HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/98
+#EXTINF:0,Galaxy Premium SD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/29603
+#EXTINF:0,Galaxy SD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/29604
+#EXTINF:0,HBO Family FHD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/30184
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/592
+#EXTINF:0,HBO Family SD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/26598
+#EXTINF:0,HBO FHD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1496
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/210
+#EXTINF:0,HBO Hits FHD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/11492
+#EXTINF:0,HBO Hits HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/591
+#EXTINF:0,HBO Hits SD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/26596
+#EXTINF:0,HBO SD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/26595
+#EXTINF:0,HBO Signature FHD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1498
+#EXTINF:0,HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/873
+#EXTINF:0,HBO Signature SD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/26597
+#EXTINF:0,HITS HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1195
+#EXTINF:0,Hits Movie SD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/957
+#EXTINF:0,IMC SD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/35484
+#EXTINF:0,& Picture
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/31875
+#EXTINF:0,&TV HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/31876
+#EXTINF:0,KIX HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/8
+#EXTINF:0,LifeTime HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/866
+#EXTINF:0,Red By HBO HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/4832
+#EXTINF:0,Star Chinese Movies HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/780
+#EXTINF:0,Star Chinese Movies Legend
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1859
+#EXTINF:0,Star World
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/381
+#EXTINF:0,Thrill
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/4
+#EXTINF:0,Warner TV ID HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1533
+#EXTINF:0,Zee Bioskop
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/7
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/358
+#EXTINF:0,BBC Earth
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/385
+#EXTINF:0,Crime Investigation
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/332
+#EXTINF:0,Da Vinci Learning
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/36729
+#EXTINF:0,Discovery Asia
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/779
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/165
+#EXTINF:0,Discovery Science HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/408
+#EXTINF:0,Discovery Shed
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/333
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/462
+#EXTINF:0,History FHD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/8131
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/718
+#EXTINF:0,Lingua Channel
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/14944
+#EXTINF:0,Love Nature 4K
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/36767
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/96
+#EXTINF:0,Nat Geo People HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/455
+#EXTINF:0,Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/97
+#EXTINF:0,Ruang Terampil
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/36731
+#EXTINF:0,Smithsonian Channel
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/35998
+#EXTINF:0,TV Edukasi
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/36732
+#EXTINF:0,.idku
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/36730
+#EXTINF:0,AFN HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/807
+#EXTINF:0,BBC Lifestyle HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/36766
+#EXTINF:0,Blue Ant Entertainment HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1506
+#EXTINF:0,Citra Drama
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/905
+#EXTINF:0,DMAX
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/483
+#EXTINF:0,Eat & Go
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/26979
+#EXTINF:0,Every Good Game
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/921
+#EXTINF:0,Fashion TV
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/280
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/537
+#EXTINF:0,Insert
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1763
+#EXTINF:0,NHK World Japan
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/785
+#EXTINF:0,TLC English
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/351
+#EXTINF:0,TLC HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/352
+#EXTINF:0,TV 5 Monde Asie
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/786
+#EXTINF:0,Waku Waku Japan HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/717
+#EXTINF:0,K Drama
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/35769
+#EXTINF:0,K Plus
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/18
+#EXTINF:0,KBS World HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/15057
+#EXTINF:0,S GEM HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/770
+#EXTINF:0,Sony ONE
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/19
+#EXTINF:0,TVN ID
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/767
+#EXTINF:0,tVN Movies HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/927
+#EXTINF:0,Channel V HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/766
+#EXTINF:0,Citra Dangdut
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/2207
+#EXTINF:0,i konser
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/29594
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/281
+#EXTINF:0,MTV Dance
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/288
+#EXTINF:0,MTV LIVE HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/9110
+#EXTINF:0,MTV Music
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/286
+#EXTINF:0,NRJ Hits TV
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/29836
+#EXTINF:0,ONE African TV
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1731
+#EXTINF:0,Prambors TV
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1157
+#EXTINF:0,Chinese Drama
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/36733
+#EXTINF:0,CTI Asia
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/29602
+#EXTINF:0,ETTV Asia
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/29597
+#EXTINF:0,Formosa
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/29601
+#EXTINF:0,Kungfu TV
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/29598
+#EXTINF:0,Animax
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/3
+#EXTINF:0,Aniplus
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/2
+#EXTINF:0,Baby First
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1204
+#EXTINF:0,Baby TV
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/296
+#EXTINF:0,Boomerang ID
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/305
+#EXTINF:0,Cartoon Network ID HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/680
+#EXTINF:0,CBeebies
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/491
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/306
+#EXTINF:0,Disney Channel ID
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/3479
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/213
+#EXTINF:0,Disney UK
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/2336
+#EXTINF:0,Disney XD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/104
+#EXTINF:0,Dream Works HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/32529
+#EXTINF:0,Duck TV
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1854
+#EXTINF:0,Dunia Anak
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/907
+#EXTINF:0,Horee
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/14106
+#EXTINF:0,My Kidz
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1483
+#EXTINF:0,Nick Jr 2
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/341
+#EXTINF:0,Nick Jr ID
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/522
+#EXTINF:0,Nick Toons
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/335
+#EXTINF:0,Nickelodeon ID
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/962
+#EXTINF:0,Toonmax
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/1116
+#EXTINF:0,XingXong
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/36764
+#EXTINF:0,Zoo Moo HD
+#EXTVLCOPT:network-caching=1000
+https://nonton.site:8443/novi/novi123/14104
+#EXTINF:0,Champions TV 1
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Champions TV 2
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,Champions TV 3
+#EXTVLCOPT:network-caching=1000
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:0,IN: Sony SIX HD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/4853
+#EXTINF:0,IN: Sony TEN 1 HD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/74893
+#EXTINF:0,IN: Sony TEN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/56190
+#EXTINF:0,IN: Sony TEN 3
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/56191
+#EXTINF:0,IN: STAR SPORT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/62584
+#EXTINF:0,IN: Star Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/3630
+#EXTINF:0,IN: Star Sports 1 Hindi
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/247516
+#EXTINF:0,IN: STAR SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/3631
+#EXTINF:0,IN: Star Sports 2 Select HD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/201082
+#EXTINF:0,IN: Star Sports Select 1 HD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/82628
+#EXTINF:0,IN: STAR SPORTS SELECT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/16619
+#EXTINF:0,IN: Ten Golf FHD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/196097
+#EXTINF:0,IN: Ten Sports
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/82635
+#EXTINF:0,IN: Ten Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/82633
+#EXTINF:0,IN: Willow Cricket HD
+#EXTVLCOPT:network-caching=1000
+http://iptvtree.net:8080/Line1051/f4fffd47/165776
+#EXTINF:0,Astro SuperSport 1 My
+#EXTVLCOPT:network-caching=1000
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:0,Astro SuperSport 2 My
+#EXTVLCOPT:network-caching=1000
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:0,Astro SuperSport 3 My
+#EXTVLCOPT:network-caching=1000
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:0,Astro SuperSport 4 My
+#EXTVLCOPT:network-caching=1000
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:0,ASSP1Thai(setAuto)
+#EXTVLCOPT:network-caching=1000
+http://thaicable.myftp.org:8000/live/infosat/2020/7.ts
+#EXTINF:0,ASSP2Thai(setAuto)
+#EXTVLCOPT:network-caching=1000
+http://thaicable.myftp.org:8000/live/infosat/2020/8.ts
+#EXTINF:0,ASSP3Thai(setAuto)
+#EXTVLCOPT:network-caching=1000
+http://thaicable.myftp.org:8000/live/infosat/2020/9.ts
+#EXTINF:0,ASSP4Thai(setAuto)
+#EXTVLCOPT:network-caching=1000
+http://thaicable.myftp.org:8000/live/infosat/2020/10.ts
+#EXTINF:0,FOX SPORTS 1 True
+#EXTVLCOPT:network-caching=1000
+https://chostv.mobie.in/choos/sports1/foxsports1.m3u8
+#EXTINF:0,FOX SPORTS 2 True
+#EXTVLCOPT:network-caching=1000
+https://chostv.mobie.in/choos/sports1/foxsports2.m3u8
+#EXTINF:0,FOX SPORTS 3 True
+#EXTVLCOPT:network-caching=1000
+https://chostv.mobie.in/choos/sports1/foxsports3.m3u8
+#EXTINF:0,FOX SPORTS 1 TH
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0,FOX SPORTS 2 TH
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0,FOX SPORTS 3 TH
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:0,FOX SPORTS 1 Thai
+#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:0,FOX SPORTS 2 Thai
+#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:0,FOX SPORTS 3 Thai
+#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,TrueSport HD1
+#EXTVLCOPT:network-caching=1000
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0,TrueSport HD2
+#EXTVLCOPT:network-caching=1000
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0,TrueSport HD3
+#EXTVLCOPT:network-caching=1000
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0,TrueSport HD4
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com//02_sport5_480p/chunklist.m3u8
+#EXTINF:0,TrueSport HD5
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com//02_sport5_480p/chunklist.m3u8
+#EXTINF:0,TrueSport HD6
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:0,TrueSport HD7
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:0,True Premier HD 1
+#EXTVLCOPT:network-caching=1000
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0,True Premier HD 2
+#EXTVLCOPT:network-caching=1000
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0,True Premier HD 3
+#EXTVLCOPT:network-caching=1000
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0,True Premier HD 4
+#EXTVLCOPT:network-caching=1000
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0,True Premier HD 5
+#EXTVLCOPT:network-caching=1000
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://77.83.117.60:8888/02_PremierHD5_720p/chunklist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
+#EXTINF:0,Sport TV 1
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0,Sport TV 2
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0,Sport TV 3
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0,Sport TV 4
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0,Sport TV 5
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:0,Halow Sport HD
+#EXTVLCOPT:network-caching=1000
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
+#EXTINF:0,SUPERSPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://rv.therevenge.co:80/307213231550/307213231550/85169
+#EXTINF:0,SUPERSPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://rv.therevenge.co:80/307213231550/307213231550/85168
+#EXTINF:0,SUPERSPORT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://rv.therevenge.co:80/307213231550/307213231550/85167
+#EXTINF:0,SUPERSPORT 4 HD
+#EXTVLCOPT:network-caching=1000
+http://rv.therevenge.co:80/307213231550/307213231550/85166
+#EXTINF:0,SUPERSPORT 5 HD
+#EXTVLCOPT:network-caching=1000
+http://rv.therevenge.co:80/307213231550/307213231550/85165
+#EXTINF:0,SUPERSPORT 6 HD
+#EXTVLCOPT:network-caching=1000
+http://rv.therevenge.co:80/307213231550/307213231550/85164
+#EXTINF:0,SUPERSPORT 7 HD
+#EXTVLCOPT:network-caching=1000
+http://rv.therevenge.co:80/307213231550/307213231550/85163
+#EXTINF:0,SUPERSPORT 8 HD
+#EXTVLCOPT:network-caching=1000
+http://rv.therevenge.co:80/307213231550/307213231550/85162
+#EXTINF:0,Super tenis
+#EXTVLCOPT:network-caching=1000
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTVLCOPT:network-caching=1000
+https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://fvtv.mywire.org/playlist/e6zykynkct-nqugyw4vpt.m3u8
+#EXTINF:0,TENNIS Channel HD
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0,Tennis Channel Plus
+#EXTVLCOPT:network-caching=1000
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTVLCOPT:network-caching=1000
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8?checkedby
+#EXTINF:0,US Open Tennis 1
+#EXTVLCOPT:network-caching=1000
+http://213.152.161.254:8080/upl6_2.m3u8
+#EXTINF:0,US Open Tennis 2
+#EXTVLCOPT:network-caching=1000
+http://213.152.161.254:8080/upl2_2.m3u8
+#EXTINF:0,Tennis[LVM]
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0,BEIN SPORTS XTRA
+#EXTVLCOPT:network-caching=1000
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:0,MSNBC HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/27329
+#EXTINF:0,Fox News HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/27282
+#EXTINF:0,ON Sport
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/5493
+#EXTINF:0,Nile Sport
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/5513
+#EXTINF:0,Sudan Sport
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/10311
+#EXTINF:0,Time Sports
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/16515
+#EXTINF:0,KSA SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/16852
+#EXTINF:0,KSA SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/16853
+#EXTINF:0,KSA SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/16854
+#EXTINF:0,Saudi 24 Sports
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/16855
+#EXTINF:0,Euro Sport 2
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2395
+#EXTINF:0,RMC Sport 3
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2353
+#EXTINF:0,RMC Sport 4
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2352
+#EXTINF:0,Rmc Sport News
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2356
+#EXTINF:0,beIN SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2439
+#EXTINF:0,beIN SPORTS 4
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2437
+#EXTINF:0,beIN SPORTS 5
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2436
+#EXTINF:0,beIN SPORTS 7
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2434
+#EXTINF:0,beIN SPORTS 8
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2433
+#EXTINF:0,beIN SPORTS 9
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2432
+#EXTINF:0,beIN SPORTS 10
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2440
+#EXTINF:0,SPORT TV 3
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/30843
+#EXTINF:0,Real Madrid TV
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2517
+#EXTINF:0,Gol TV
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2545
+#EXTINF:0,Moto GP HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2536
+#EXTINF:0,beIN La Liga HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2573
+#EXTINF:0,Formula 1 HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2550
+#EXTINF:0,Euro Sport 1
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2501
+#EXTINF:0,Euro Sport 2
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2502
+#EXTINF:0,Fox Sport  3 HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2497
+#EXTINF:0,Fox Sport 5 HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2499
+#EXTINF:0,Fox Sport 6 HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2500
+#EXTINF:0,Ziggo Sport Docu
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2490
+#EXTINF:0,Ziggo Sport 1 Voetbal
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2491
+#EXTINF:0,Ziggo Sport 1 Select
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2492
+#EXTINF:0,Ziggo Sport Racing
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2495
+#EXTINF:0,|UK|eir Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/24182
+#EXTINF:0,Astera Sport HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/27992
+#EXTINF:0,MMN Sport HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/27941
+#EXTINF:0,Kurdistan Sport HD
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/27940
+#EXTINF:0,beIN SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2236
+#EXTINF:0,beIN SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2237
+#EXTINF:0,beIN SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2238
+#EXTINF:0,beIN SPORTS 4
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2239
+#EXTINF:0,beIN SPORTS 5
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2240
+#EXTINF:0,beIN SPORTS 6
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2241
+#EXTINF:0,beIN SPORTS 7
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2242
+#EXTINF:0,beIN SPORTS 8
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2243
+#EXTINF:0,beIN SPORTS 9
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2244
+#EXTINF:0,beIN SPORTS 10
+#EXTVLCOPT:network-caching=1000
+http://red.ipfox.org:8080/Karim2_534341/40036069/2245
+#EXTINF:0,Fox Premium Action HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/611
+#EXTINF:0,Fox Premium Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/616
+#EXTINF:0,Fox Premium Classics HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/615
+#EXTINF:0,Fox Premium Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/614
+#EXTINF:0,Fox Premium Family HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/610
+#EXTINF:0,Fox Premium Movies HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/609
+#EXTINF:0,Fox Premium Series HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/101
+#EXTINF:0,FX Movie HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/581
+#EXTINF:0,Golden Plus HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/607
+#EXTINF:0,HBO Latino East HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/29
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/601
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/603
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/602
+#EXTINF:0,HBO Mundi HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/594
+#EXTINF:0,HBO Plus HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/600
+#EXTINF:0,HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/593
+#EXTINF:0,HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/599
+#EXTINF:0,Paramount Network HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/151
+#EXTINF:0,Smithsonian Channel HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/819
+#EXTINF:0,Syfy HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/287
+#EXTINF:0,TLC HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/664
+#EXTINF:0,TNT HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/557
+#EXTINF:0,Travel Channel HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/359
+#EXTINF:0,truTV HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/534
+#EXTINF:0,TV Land HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/144
+#EXTINF:0,USA Network HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/285
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/57
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/624
+#EXTINF:0,Discovery en Español US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/558
+#EXTINF:0,Discovery Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/623
+#EXTINF:0,Discovery ID HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/422
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/640
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/418
+#EXTINF:0,Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/134
+#EXTINF:0,Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/419
+#EXTINF:0,History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/598
+#EXTINF:0,H2 HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/19
+#EXTINF:0,Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/588
+#EXTINF:0,National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/590
+#EXTINF:0,TLC HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/65
+#EXTINF:0,Animal Planet HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/682
+#EXTINF:0,Discovery Channel HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/916
+#EXTINF:0,History HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/304
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/632
+#EXTINF:0,Cine Sony HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/493
+#EXTINF:0,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/628
+#EXTINF:0,Cinema Dinamita
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/95
+#EXTINF:0,CineMax HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/96
+#EXTINF:0,Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/109
+#EXTINF:0,StarzEncore Español HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/28
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/322
+#EXTINF:0,TNT HD Mexico
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/331
+#EXTINF:0,Universal Channel HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/111
+#EXTINF:0,Comet HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/820
+#EXTINF:0,FX Movie Channel HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/292
+#EXTINF:0,Hallmark Channel HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/836
+#EXTINF:0,Hallmark Drama HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/835
+#EXTINF:0,Hallmark Movies & Mysteries HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/834
+#EXTINF:0,Lifetime Movie Network HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/503
+#EXTINF:0,Sony Movie Channel HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/818
+#EXTINF:0,Cinemax East HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/724
+#EXTINF:0,Moremax East HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/779
+#EXTINF:0,Star Max HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/737
+#EXTINF:0,ActionMax East HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/735
+#EXTINF:0,MovieMax HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/734
+#EXTINF:0,OuterMax HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/856
+#EXTINF:0,ThrillerMax East HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/679
+#EXTINF:0,HBO East HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/685
+#EXTINF:0,HBO 2 East HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/686
+#EXTINF:0,HBO Comedy East HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/687
+#EXTINF:0,HBO Family East HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/688
+#EXTINF:0,HBO Signature East HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/690
+#EXTINF:0,HBO Zone East HD US
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/689
+#EXTINF:0,Showtime Extreme HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/699
+#EXTINF:0,Showtime Showcase HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/691
+#EXTINF:0,Showtime Next HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/585
+#EXTINF:0,Showtime Women HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/107
+#EXTINF:0,Showtime Family Zone HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/103
+#EXTINF:0,StarzEncore East HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/642
+#EXTINF:0,StarzEncore Action HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/100
+#EXTINF:0,StarzEncore Black HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/98
+#EXTINF:0,StarzEncore Classic HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/93
+#EXTINF:0,StarzEncore Suspense HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/61
+#EXTINF:0,Starz East HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/697
+#EXTINF:0,Starz Kids & Family
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/695
+#EXTINF:0,Starz Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/693
+#EXTINF:0,Starz Edge HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/694
+#EXTINF:0,Starz in Black HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/51
+#EXTINF:0,Starz Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://latvonlive.com:33612/Llanos1/1234/692
+#EXTINF:0,//MOVIES
+#EXTVLCOPT:network-caching=1000
+file://MOVIES
+#EXTINF:0,FOX CRIME
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:0,FOX ACTION
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:0,FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:0,FOX MOVIES
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:0,QIYI
+#EXTVLCOPT:network-caching=1000
+http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
+#EXTINF:0,AEC 1511
+#EXTVLCOPT:network-caching=1000
+http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
+#EXTINF:0,AOD HD
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://158.140.171.166/utv/hbo.m3u8
+#EXTINF:0,HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://158.140.171.166/utv/hbofam.m3u8
+#EXTINF:0,HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+http://158.140.171.166/utv/hbosig.m3u8
+#EXTINF:0,CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://158.140.171.166/utv/cinemax.m3u8
+#EXTINF:0,RED BY HBO
+#EXTVLCOPT:network-caching=1000
+http://158.140.171.166/utv/red.m3u8
+#EXTINF:0,NEXTTV
+#EXTVLCOPT:network-caching=1000
+http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
