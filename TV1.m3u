@@ -1,0 +1,782 @@
+#EXTM3U
+
+#EXTINF:0,Indosiar
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:0,RCTI
+#EXTVLCOPT:network-caching=1000
+https://vcdn2.rctiplus.id:443/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:0,SCTV
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:0,TRANS TV
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
+
+#EXTINF:0,TRANS7
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+
+#EXTINF:0,NET
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:0,MNC metube
+#EXTVLCOPT:network-caching=1000
+https://cdn-livetv-studio.metube.id/mnctv.m3u8
+
+#EXTINF:0,ANTV
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:0,GTV
+#EXTVLCOPT:network-caching=1000
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+
+#EXTINF:0,RTV
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+
+#EXTINF:0,TVRI
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:0,CNN
+#EXTVLCOPT:network-caching=1000
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
+#EXTINF:0,Berita Satu
+#EXTVLCOPT:network-caching=1000
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:0,Metro TV
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/x6bnqe/h/h12/01.m3u8
+
+
+#EXTINF:0,FightSport
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
+#EXTINF:0,MotorSport
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
+
+
+
+#EXTINF:0,TVN
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+
+#EXTINF:0,K+
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+#EXTINF:0,ONE
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:0,GEM
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF:0,TVNMOVIES
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:0,KIX
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+#EXTINF:0,HITS
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+#EXTINF:0,ROCK Entertainment
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:0,ROCK Extreme
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+#EXTINF:0,CELESTIALMOVIES
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
+#EXTINF:0,CINEMAWOLRD
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+
+#EXTINF:0,THRILL
+#EXTVLCOPT:network-caching=1000
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:0,TVN ID
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
+#EXTINF:0,OH!K TV
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:0,Sony GEM TV
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+#EXTINF:0,Sony One
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
+#EXTINF:0,Sony One
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
+
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:0,Poeple Awesome
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
+#EXTINF:0,CGTN DOCUMENTARY
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/session/6e87599c-2ef3-11eb-b6b9-b82a72d63267/qwr9ew/s/s20/01.m3u8
+
+#EXTINF:0,Animax
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:0,Aniplus
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
+
+#EXTINF:0,Biznet Kids
+#EXTVLCOPT:network-caching=1000
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:0,spacetoon
+#EXTVLCOPT:network-caching=1000
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
+
+#EXTINF:0,EBS
+#EXTVLCOPT:network-caching=1000
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+
+#EXTINF:0,CelestialMovie
+#EXTVLCOPT:network-caching=1000
+http://rr2.dens.tv/s/s33/01.m3u8
+#EXTINF:0,Sinema Indonesia
+#EXTVLCOPT:network-caching=1000
+http://rr.dens.tv/h/h155/index2.m3u8
+#EXTINF:0,MyCinema
+#EXTVLCOPT:network-caching=1000
+http://rr.dens.tv/h/h90/S4/mnf.m3u8
+#EXTINF:0,MyCinema  Europe
+#EXTVLCOPT:network-caching=1000
+http://rr.dens.tv/h/h18/01.m3u8
+
+#EXTINF:0,Rurouni Kenshin: The Beginning
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1fi1hhsHAGluaKBK8DmhMPZlpn5i_RkTg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Jungle Cruise
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1O2v28ZxuXy6Ehr73a7h9JCDBp5tpMkmE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,The Legend of The Condor Heroes: The Dragon Tamer
+#EXTVLCOPT:network-caching=1000
+https://www.googleapis.com/drive/v3/files/1yeTtmh_2_BkApmdQl2xH6qz2_9Rj5uik?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:0,Triggered (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6643.mp4
+#EXTINF:0,Clouds (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6645.mp4
+#EXTINF:0,Cuties (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6646.mp4
+#EXTINF:0,Holidate (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6647.mp4
+#EXTINF:0,Phineas and Ferb The Movie: Candace Against the Universe (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6648.mp4
+#EXTINF:0,Possessor Uncut (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6649.mp4
+#EXTINF:0,Ravers (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6650.mp4
+#EXTINF:0,Rebecca (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6651.mp4
+#EXTINF:0,Relic (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6652.mp4
+#EXTINF:0,Rogue City (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6653.mp4
+#EXTINF:0,Sputnik (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6654.mp4
+#EXTINF:0,The Call (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6655.mp4
+#EXTINF:0,Words on Bathroom Walls (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/6656.mp4
+#EXTINF:0,Project Power (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/327.mp4
+#EXTINF:0,The New Mutants (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/328.mp4
+#EXTINF:0,Manap Karaoke (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/331.mp4
+#EXTINF:0,Man santan ( 2020 )
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/337.mp4
+#EXTINF:0,-Malay Audio- The SpongeBob Movie: Sponge on the Run (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/338.mp4
+#EXTINF:0,Bigfoot Family (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/339.mp4
+#EXTINF:0,Death of Me (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/340.mp4
+#EXTINF:0,Seized (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/345.mp4
+#EXTINF:0,Unhinged (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/346.mp4
+#EXTINF:0,Aku Kaya The Movie (2003)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/423.mp4
+#EXTINF:0,Code of Thieves (2020)
+#EXTVLCOPT:network-caching=1000
+http://iptv.tvmalaysia.cc:80/movie/737373/737373/425.mp4
+#EXTINF:0,Chinese Ghost Story 3: The Enchanting Phantom (2020)
+#EXTVLCOPT:network-caching=1000
+http://srv32.nf21.net/files/15-2020-05-13-6b781445273bd09f944915f9e2faad2a.mp4
+#EXTINF:0,The Patriot (2000)
+#EXTVLCOPT:network-caching=1000
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+#EXTINF:0,Vanquish (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
+#EXTINF:0,Nobody (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8
+#EXTINF:0,Thunder Force (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
+#EXTINF:0,The Yin Yang Master (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+#EXTINF:0,ARMAGEDDON TALES (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/3ca9a047ea086321136a11b7181cfc2a/540p/index.m3u8
+#EXTINF:0,Twist (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/2664a17549df570378bdffd02aa1702c/540p/index.m3u8
+#EXTINF:0,Space Sweepers (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/b1add098cb4ac360e177435105e4ef75/540p/index.m3u8
+#EXTINF:0,Master (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/index.m3u8
+#EXTINF:0,Just Noise (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/b21d35731cf5adc8fb7baa80c1f1f967/540p/index.m3u8
+#EXTINF:0,Insight (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
+#EXTINF:0,Cosmic Sin (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/ccfc9657a73148af93b0de19f35c11a1/540p/index.m3u8
+#EXTINF:0,Counterattack (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/c1a7b7f8ea60843fea649a2d0bc119ab/540p/index.m3u8
+#EXTINF:0,400 Bullets (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/bb1a2651013184c22adc299ebc25ef6b/540p/index.m3u8
+#EXTINF:0,En Passant P�cho: Les Carottes Sont Cuites (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/07986d6aaa9632efaaa549f693ba2dfd/540p/index.m3u8
+#EXTINF:0,Heroes Return (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/12c134f002d2bc4948795126b1c4e9b4/540p/index.m3u8
+#EXTINF:0,Teddy (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/401410ed0d350461833d4b8a058212c9/540p/index.m3u8
+#EXTINF:0,Triassic Hunt (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/8c38d7d33f136369e5c0eca7804a1f0c/540p/index.m3u8
+#EXTINF:0,The Pond (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/54e51c6ce7265017fbb12bccb7a41554/540p/index.m3u8
+#EXTINF:0,The White Tiger (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/5b80bd6b1e549a7baebe25b2de0a579a/540p/index.m3u8
+#EXTINF:0,Batman: Soul of the Dragon (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/1694a92b5d221c8e456f1e2022cdee98/540p/index.m3u8
+#EXTINF:0,Goodbye Butterfly (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/8dab3c63a76016415e475ed180c00a83/540p/index.m3u8
+#EXTINF:0,Dead in the Water (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/c60333d65ea8d34b5ff0533c1a83961d/540p/index.m3u8
+#EXTINF:0,Butchers (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/01e0a35bd2450f3152d8bd0f86b86d85/540p/index.m3u8
+#EXTINF:0,Battle in Space: The Armada Attacks (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/2bf8a120078b6f73c84319135c01fa93/540p/index.m3u8
+#EXTINF:0,Hunted (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/163ab27b9848d1ae9ee7b6d8bccf07ba/540p/index.m3u8
+#EXTINF:0,Norm of the North: Family Vacation (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/b726c3c74fddd43b3d217ed17fe72f4f/540p/index.m3u8
+#EXTINF:0,American Dream (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/2669184a15ad557b92c61a36df56ed9f/540p/index.m3u8
+#EXTINF:0,The Minimalists: Less Is Now (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/9b45a4d1f070048b8158394ce13e3dca/540p/index.m3u8
+#EXTINF:0,Finding 'Ohana (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/d169147a60484e39fedcb7f3481f6f0e/540p/index.m3u8
+#EXTINF:0,Redemption Day (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/d3ea522820faa6d92f51ac15d0bf0a3c/540p/index.m3u8
+#EXTINF:0,Penguin Bloom (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/ce86aaaef93576f14395690ca2c24944/540p/index.m3u8
+#EXTINF:0,Palmer (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/3670dbd46fdcfe5fb815ef5532350036/540p/index.m3u8
+#EXTINF:0,A Hellkat (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/9b2b1c8362e55234cff9ca547951d6cb/540p/index.m3u8
+#EXTINF:0,Kill Cavalry (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/539f72ad9e0453c13c7d5c1137caaafb/540p/index.m3u8
+#EXTINF:0,The Power (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/c6863cb6dd663ac179aef272b60fee7b/540p/index.m3u8
+#EXTINF:0,Crisis (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/e396a48d24cbda9d7ebda7d9ae76d0ce/540p/index.m3u8
+#EXTINF:0,The College Admissions Scandal (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/ed01b097fb58b0e5f7bd3be172a88fe2/540p/index.m3u8
+#EXTINF:0,Road to Damascus (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/7589b0dc36d3a71a45f8e2f734b305ff/540p/index.m3u8
+#EXTINF:0,The Wife (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/c0893cdc465d6f9891ae981e356bc59b/540p/index.m3u8
+#EXTINF:0,Girl in the Basement (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/8a3b2b70fdb0b47e0bce326d95e0e605/540p/index.m3u8
+#EXTINF:0,The Dead of Night (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/132ffb3304451d5f948002ecba8c9b62/540p/index.m3u8
+#EXTINF:0,Cherry (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/5818591fff4b0d06469111a2daff8a5e/540p/index.m3u8
+#EXTINF:0,The Girl on the Train (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/ea5a8116dfa1df8d71575260459d4aa2/540p/index.m3u8
+#EXTINF:0,Silk Road (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/7b666d2d6de4b9e2a6c3b712c3944f56/540p/index.m3u8
+#EXTINF:0,Alice Fades Away (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/cfc8d36c9e6095bbb5e21b1b9dc0c6e4/540p/index.m3u8
+#EXTINF:0,Paradise Cove (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/34f988677a4e4a1e48640c9931868f03/540p/index.m3u8
+#EXTINF:0,Faceless (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/3cd77976b7511174e3740cad01c58796/540p/index.m3u8
+#EXTINF:0,Doors (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/2afc40deb56b17c21874022bc419fa46/540p/index.m3u8
+#EXTINF:0,Expiry (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/3f7bb4f0aadea5388c06e8fbdc171b21/540p/index.m3u8
+#EXTINF:0,Judas and the Black Messiah (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/f7e247296deba30029c2fcc3323389f3/540p/index.m3u8
+#EXTINF:0,Phobias (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/8eff084ddb2ae8f6c2056ceb4e3fe594/540p/index.m3u8
+#EXTINF:0,60 Seconds to Di3) 2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/5038692d826f121309e29ad49c107ae8/540p/index.m3u8
+#EXTINF:0,Dreamcatcher (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/2ef94737b5792d42c458235771e4a88f/540p/index.m3u8
+#EXTINF:0,Stay Out of the F**king Attic (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/1f47020e198f853bfc111e2da3aa5e91/540p/index.m3u8
+#EXTINF:0,Come True(2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/86c6f1faf0d246563bedb2f53223ca1f/540p/index.m3u8
+#EXTINF:0,The Toll (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/7d78072209cbbf5b11783145e5ba86cb/540p/index.m3u8
+#EXTINF:0,The Seventh Day (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/ce5f0c2ae334178277dec43638706378/540p/index.m3u8
+#EXTINF:0,American Liar (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/167f6a2fe5cea631ff46c0deb9704ad5/540p/index.m3u8
+#EXTINF:0,Held (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/3524d392bd8a2d5d8e6a5ae401c03d6b/540p/index.m3u8
+#EXTINF:0,Dawn of the Beast (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/dbd2e455c06d645639621c3188255832/540p/index.m3u8
+#EXTINF:0,Wrong Turn (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/f175bb157bed3140504f9422f14d06c7/540p/index.m3u8
+#EXTINF:0,Sator (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/c49070879371d648e2541f76acf1fa51/540p/index.m3u8
+#EXTINF:0,The Canyonlands (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/93c0518243c11ccd997d582ff44ea700/540p/index.m3u8
+#EXTINF:0,The Red Nightmare (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/b1115353573bdc23a489a1c6653be9d4/540p/index.m3u8
+#EXTINF:0,Shook (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/aed51414b1d9787359892c18c64fef61/540p/index.m3u8
+#EXTINF:0,Blood Brothers (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/0e7bc1b5824943fc967747d65baed688/540p/index.m3u8
+#EXTINF:0,Trust(2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/c7f6fcbf0961a1ad754bd1a4d45e2584/540p/index.m3u8
+#EXTINF:0,Drama  Wildcat (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/2676bc525bdd072c5ad6800571d35e9f/540p/index.m3u8
+#EXTINF:0,The Arbors (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/41f907567a35e8da06f821d48407336a/360p/index.m3u8
+#EXTINF:0,Payback (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/8a687087286b2a6438af5f5763b5f2e9/540p/index.m3u8
+#EXTINF:0,Bliss (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/10555182f5ce9ad5dd2f2219972151d9/540p/index.m3u8
+#EXTINF:0,Red Dot (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/ce5a6a0bd2749698f7d023f2648afae1/540p/index.m3u8
+#EXTINF:0,Drishyam 2 (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/c7ba58ccbaf864a200536abd8396dfdb/540p/index.m3u8
+#EXTINF:0,Dream About Face-Change Comes True (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/4f3b36b967a44e7db4c0ec8760a1e598/540p/index.m3u8
+#EXTINF:0,HILO 2 (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/87002b78d6977e7cede234e1c442bca9/540p/index.m3u8
+#EXTINF:0,Land (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/db3b50eea11629b38a726701757f12a1/540p/index.m3u8
+#EXTINF:0,The Mauritanian (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/d216527646bd705d1956dd2fe2b502f2/540p/index.m3u8
+#EXTINF:0,Moxie (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/9d065092bc6f35eb6108c49c6c2f1606/540p/index.m3u8
+#EXTINF:0,Squared Love (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/4657e7b8e5dd26c505e3099345d4f7cd/540p/index.m3u8
+#EXTINF:0,Barb and Star Go to Vista Del Mar (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/5d20ce252956a2a808bd83e149fc08e7/540p/index.m3u8
+#EXTINF:0,Paranormal Prison (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/30a1e5249c4ae9ba75844008dfc7fca5/540p/index.m3u8
+#EXTINF:0,Proud of Love (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/b647f708b11a7ac373660b42881e8ec5/540p/index.m3u8
+#EXTINF:0,The Right One (2021)
+#EXTVLCOPT:network-caching=1000
+https://cdn3ii.diebutx.com/own2hls/2020/67303167dc0d62b40d55ac683ba38f69/540p/index.m3u8
+#EXTINF:0,Cek Toko Sebelah (2016)
+#EXTVLCOPT:network-caching=1000
+http://srv18.nf21.net/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
+#EXTINF:0,My Stupid Bos (2016)
+#EXTVLCOPT:network-caching=1000
+http://srv18.nf21.net/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
+#EXTINF:0,Naga Bonar Jadi 2 (2007)
+#EXTVLCOPT:network-caching=1000
+http://srv18.nf21.net/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
+#EXTINF:0,Galih Dan Ratna (2017)
+#EXTVLCOPT:network-caching=1000
+http://srv18.nf21.net/files/15-2018-08-07-cad79a652ba7fd037ca11444b3bd3f5f.mp4
+#EXTINF:0,Suatu Hari Nanti (2017)
+#EXTVLCOPT:network-caching=1000
+http://srv18.nf21.net/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
+#EXTINF:0,Benyamin Biang Kerok (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv19.nf21.net/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
+#EXTINF:0,Partikelir (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv19.nf21.net/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
+#EXTINF:0,London Love Story 3 (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv19.nf21.net/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
+#EXTINF:0,Revan & Reina (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv19.nf21.net/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
+#EXTINF:0,Flight 555 (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv19.nf21.net/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
+#EXTINF:0,Insya Allah Sah 2 (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv24.nf21.net/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
+#EXTINF:0,Bodyguard Ugal-Ugalan (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv24.nf21.net/files/11-2018-11-09-4d0f5e263c6bc227c1b23c5145c32713.mp4
+#EXTINF:0,Ayat-Ayat Cinta 2 (2017)
+#EXTVLCOPT:network-caching=1000
+http://srv24.nf21.net/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
+#EXTINF:0,Terbang: Menembus Langit (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv28.nf21.net/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
+#EXTINF:0,Hanum & Rangga: Faith & The City (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv28.nf21.net/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
+#EXTINF:0,Rompis (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv28.nf21.net/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
+#EXTINF:0,Bajaj Bajuri: The Movie (2014)
+#EXTVLCOPT:network-caching=1000
+http://srv28.nf21.net/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
+#EXTINF:0,Sepatu Dahlan (2014)
+#EXTVLCOPT:network-caching=1000
+http://srv28.nf21.net/files/6-2019-03-06-f7ab0cb8265616f14077202dc234ff7a.mp4
+#EXTINF:0,SESAT (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959916
+#EXTINF:0,The Secret Suster Ngesot Urban Legend (2018)
+#EXTVLCOPT:network-caching=1000
+http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
+#EXTINF:0,Rumput Tetangga (2019)
+#EXTVLCOPT:network-caching=1000
+https://dl.dropboxusercontent.com/s/spmmhz8vtd02wko/Nonton%20Film%20Rumput%20Tetangga%20%282019%29%20Ganool%20Movie%20Lk21%20Indoxx1%20Subtitle%20Indonesia%20Streaming%20Download%20-%20PlanetFilm21.mp4?dl=0
+#EXTINF:0,Shaolin Soccer (2001)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959731
+#EXTINF:0,Kung Fu Hustle (2004)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959722
+#EXTINF:0,Let the Bullets Fly (2010)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959725
+#EXTINF:0,The Man from Macau (2014)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959733
+#EXTINF:0,From Vegas to Macau II (2015)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959734
+#EXTINF:0,Dragon Blade (2015)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959715
+#EXTINF:0,Kill Zone 2 (2015)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959720
+#EXTINF:0,Wolf Warrior (2015)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959744
+#EXTINF:0,From Vegas to Macau III (2016)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959735
+#EXTINF:0,Shock Wave (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959730
+#EXTINF:0,Sky Hunter (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959732
+#EXTINF:0,The Foreigner (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959736
+#EXTINF:0,Bleeding Steel (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959714
+#EXTINF:0,Wolf Warrior 2 (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959745
+#EXTINF:0,Xian qiu da zhan (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959746
+#EXTINF:0,Animal World (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959713
+#EXTINF:0,Detective Chinatown 2 (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959716
+#EXTINF:0,Detective Dee: The Four Heavenly Kings (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959717
+#EXTINF:0,Hidden Man (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959718
+#EXTINF:0,Iceman: The Time Traveller (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959719
+#EXTINF:0,Kung Fu Monster (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959723
+#EXTINF:0,Kung Fu League (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959724
+#EXTINF:0,Monster Hunt 2 (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959726
+#EXTINF:0,Operation Red Sea (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959727
+#EXTINF:0,Project Gutenberg (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959729
+#EXTINF:0,The Wind Guardians (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959738
+#EXTINF:0,The Whistleblower (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959737
+#EXTINF:0,The White Storm 2: Drug Lords (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959739
+#EXTINF:0,The Monkey King Caused Havoc in Dragon Palace (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959740
+#EXTINF:0,The Wandering Earth (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959741
+#EXTINF:0,Triple Threat (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959742
+#EXTINF:0,Peak Rescue (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959728
+#EXTINF:0,We Are Legends (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959747
+#EXTINF:0,War Shura (2020)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959743
+#EXTINF:0,Ip Man (2008)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959706
+#EXTINF:0,Ip Man 2 (2010)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959707
+#EXTINF:0,Ip Man 3 (2015)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959708
+#EXTINF:0,Ip Man 4: The Finale (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959709
+#EXTINF:0,Ip Man and Four Kings (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959710
+#EXTINF:0,Master Z: The Ip Man Legacy (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959711
+#EXTINF:0,The Host (2006)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959804
+#EXTINF:0,The Warriors Way (2010)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959803
+#EXTINF:0,Way Back Home (2013)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959806
+#EXTINF:0,Secretly Greatly (2013)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959792
+#EXTINF:0,New World (2013)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959784
+#EXTINF:0,Operation Chromite (2016)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959787
+#EXTINF:0,The Wailing (2016)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959797
+#EXTINF:0,The Age of Shadows (2016)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959800
+#EXTINF:0,Train to Busan (2016)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959805
+#EXTINF:0,Midnight Runners (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959776
+#EXTINF:0,Memoir of a Murderer (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959782
+#EXTINF:0,Okja (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959786
+#EXTINF:0,Steel Rain (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959794
+#EXTINF:0,The Prison (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959798
+#EXTINF:0,The Outlaws (2017)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959799
+#EXTINF:0,Stand by Me (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959793
+#EXTINF:0,Psychokinesis (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959790
+#EXTINF:0,Rampant (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959791
+#EXTINF:0,On Your Wedding Day (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959788
+#EXTINF:0,Monstrum (2018)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959783
+#EXTINF:0,Miss n Mrs. Cops (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959777
+#EXTINF:0,My Bossy Girl (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959779
+#EXTINF:0,Metamorphosis (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959780
+#EXTINF:0,Mr. Zoo The Missing (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959781
+#EXTINF:0,Kim Ji-young Born 1982 (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959775
+#EXTINF:0,Nailed (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959785
+#EXTINF:0,Parasite (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959789
+#EXTINF:0,The Divine Fury (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959795
+#EXTINF:0,The Odd Family Zombie On Sale (2019 )
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959796
+#EXTINF:0,Tazza : One Eyed Jack (2019)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959802
+#EXTINF:0,It's Okay to Not Be Okay (2020)
+#EXTVLCOPT:network-caching=1000
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959757
