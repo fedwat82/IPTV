@@ -56,25 +56,9 @@ http://www.aptv.my.id/543/stream-live.php/video.m3u8?url=101&line=mpegts.m3u&use
 #EXTVLCOPT:network-caching=1000
 http://www.aptv.my.id/543/stream-live.php/video.m3u8?url=49&line=mpegts.m3u&user=@Ferry_Edwat&pass=@Ferry_Edwat
 
-#EXTINF:0,Biznet Kids
+#EXTINF:0,Smithsonian
 #EXTVLCOPT:network-caching=1000
-http://www.aptv.my.id/543/stream-live.php/video.m3u8?url=56&line=mpegts.m3u&user=@Ferry_Edwat&pass=@Ferry_Edwat
-
-#EXTINF:0,Cartoon
-#EXTVLCOPT:network-caching=1000
-http://www.aptv.my.id/543/stream-live.php/video.m3u8?url=54&line=mpegts.m3u&user=@Ferry_Edwat&pass=@Ferry_Edwat
-
-#EXTINF:0,Cinemax
-#EXTVLCOPT:network-caching=1000
-
-
-#EXTINF:0,Cinemax
-#EXTVLCOPT:network-caching=1000
-
-
-#EXTINF:0,Cinemax
-#EXTVLCOPT:network-caching=1000
-
+http://www.aptv.my.id/543/stream-live.php/video.m3u8?url=41&line=mpegts.m3u&user=@Ferry_Edwat&pass=@Ferry_Edwat
 
 #EXTINF:0,TVRI
 #EXTVLCOPT:network-caching=1000
@@ -90,15 +74,12 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 #EXTVLCOPT:network-caching=1000
 http://playlist.urfan.web.id/x6bnqe/h/h12/01.m3u8
 
-
 #EXTINF:0,FightSport
 #EXTVLCOPT:network-caching=1000
 http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
 #EXTINF:0,MotorSport
 #EXTVLCOPT:network-caching=1000
 http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
-
-
 
 #EXTINF:0,TVN
 #EXTVLCOPT:network-caching=1000
@@ -175,7 +156,9 @@ http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h
 #EXTINF:0,Aniplus
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
-
+#EXTINF:0,Cartoon
+#EXTVLCOPT:network-caching=1000
+http://www.aptv.my.id/543/stream-live.php/video.m3u8?url=54&line=mpegts.m3u&user=@Ferry_Edwat&pass=@Ferry_Edwat
 #EXTINF:0,Biznet Kids
 #EXTVLCOPT:network-caching=1000
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
