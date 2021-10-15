@@ -44,6 +44,10 @@ http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
 #EXTVLCOPT:network-caching=1000
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 
+#EXTINF:0,WARNER TV
+#EXTVLCOPT:network-caching=1000
+http://www.aptv.my.id/543/stream-live.php/video.m3u8?url=102&line=mpegts.m3u&user=@Ferry_Edwat&pass=@Ferry_Edwat
+
 #EXTINF:0,TVRI
 #EXTVLCOPT:network-caching=1000
 http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
