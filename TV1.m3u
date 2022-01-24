@@ -5,7 +5,7 @@
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:0,RCTI
 #EXTVLCOPT:network-caching=1000
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/11
 #EXTINF:0,SCTV
 #EXTVLCOPT:network-caching=1000
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
