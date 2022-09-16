@@ -1,92 +1,171 @@
 #EXTM3U
-#EXTINF:60,Indosiar
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-#EXTINF:606, like Gecko)" - RCTI (720p)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
-#EXTINF:60,SCTV (480p) [Geo-blocked]
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-#EXTINF:60,TRANS TV
-#EXTVLCOPT:network-caching=1000
-http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
-#EXTINF:60,TRANS7
-#EXTVLCOPT:network-caching=1000
-http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
-#EXTINF:60,NET
-#EXTVLCOPT:network-caching=1000
-http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
-#EXTINF:60,ANTV
-#EXTVLCOPT:network-caching=1000
-http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
-#EXTINF:0,RTV
-#EXTVLCOPT:network-caching=1000
-http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
-#EXTINF:100,Trans TV (720p)
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:0,Trans7 (720p)
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:60,tvN Movies (Indonesian Subtitle) (576p)
-http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:38,Ghost TV (712p) [Not 24/7]
-https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
-#EXTINF:24, like Gecko) Chrome/92.0.4515.131 Safari/537.36" - Rock Entertainment (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
-#EXTINF:360,RANS TV
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
-#EXTINF:432,RTV
+#EXTINF:360, Indosiar
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+#EXTINF:432, SCTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+#EXTINF:432, ANTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+#EXTINF:0, NET TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
+#EXTINF:0, TRANS TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+#EXTINF:0, Trans7
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
+#EXTINF:432, RTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
-#EXTINF:32,FrightFlix (720p)
-https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
-#EXTINF:35,FilmStreams (720p)
-https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:53,FilmRise Forensic Files (XUMO) (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
-#EXTINF:54,Film Hub (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF:30,Cinema Heaven (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/CinemaHeaven.m3u8
-#EXTINF:60,CinemaWorld (576p) [Geo-blocked]
+#EXTINF:0, My TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be446503011668def857b1c03bafabba51
+#EXTINF:60, Mentari TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
+#EXTINF:0,FLIK
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0, TVN Movies 
+http://210.210.155.35/dr9445/h/h21/index.m3u8
+#EXTINF:60,My Cinema Europe Asia
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+#EXTINF:0, CinemaWorld Asia
 http://210.210.155.35/dr9445/h/h04/index.m3u8
-#EXTINF:53,Gravitas Movies (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:0,Gravitas Movie
-#EXTVLCOPT:network-caching=1000
-http://www.aptv.my.id/543/stream-live.php/video.m3u8?url=101&line=mpegts.m3u&user=@Ferry_Edwat&pass=@Ferry_Edwat
-#EXTINF:0,CelestialMovie
-#EXTVLCOPT:network-caching=1000
-http://rr2.dens.tv/s/s33/01.m3u8
-#EXTINF:0,MyCinema
-#EXTVLCOPT:network-caching=1000
-http://rr.dens.tv/h/h90/S4/mnf.m3u8
-#EXTINF:0,MyCinema  Europe
-#EXTVLCOPT:network-caching=1000
-http://rr.dens.tv/h/h18/01.m3u8
-#EXTINF:60,CINEMAWOLRD
-#EXTVLCOPT:network-caching=1000
-http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
-#EXTINF:60,THRILL
-#EXTVLCOPT:network-caching=1000
-http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
-#EXTINF:60,HITS
-#EXTVLCOPT:network-caching=1000
-http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-#EXTINF:36,CNN
-#EXTVLCOPT:network-caching=1000
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
-#EXTINF:24,BERITA SATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:24,BERITASATU WORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:30,METRO GLOBAL NETWORK
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
-#EXTINF:30,TVRI Nasional
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:36,CNN Indonesia HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
-#EXTINF:30,B KIDS
-http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
-#EXTINF:60,ZOO MOO ASIA
+#EXTINF:0, THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:0, Celestial Classic Movies
+http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+#EXTINF:60, K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:60, TVN 
+http://210.210.155.35/dr9445/h/h20/index.m3u8
+#EXTINF:0, Fight Channel
+http://210.210.155.35/dr9445/h/h05/index.m3u8
+#EXTINF:0, Kix Asia
+http://210.210.155.35/dr9445/h/h07/index.m3u8
+#EXTINF:0,ROCK EXTREME
+http://rr1.dens.tv/h/h15/02.m3u8%20
+#EXTINF:60, ROCK ENT
+http://rr1.dens.tv/h/h16/02.m3u8
+#EXTINF:68,METRO TV HD
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:59,KOMPAS TV HD
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+#EXTINF:36,CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w412411721_b384000_sleng.m3u8
+#EXTINF:60,Digione
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:0,BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8%20
+#EXTINF:60, Spacetoon HD
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:0,ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:0,Kidoodle.TV
+https://7d137b2402854e3ab0cddd4ada5ecf0b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_KidoodleTV/playlist.m3u8
+#EXTINF:0,TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:0,ANIMAX
+http://rr1.dens.tv/h/h144/index.m3u8
+#EXTINF:0,ANIPLUS
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:0,KIDS
+http://rr2.dens.tv/s/s50/01.m3u8
+#EXTINF:0,CARTOON NETWORK
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115690
+#EXTINF:0,DREAMWORK
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115691
+#EXTINF:0,NICK
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+#EXTINF:0,NICKELODEON
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:0,DORA TV
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+#EXTINF:0,ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0,BLUTV KIDS
+https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
+#EXTINF:0,TRT COCUK
+https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
+#EXTINF:0,Animax
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF:0,Happy Kids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0,Happy Kids 
+https://happykids-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0,TVO Kids
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:0,Lego Channel 
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:0,M Kids
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:0,Pinkfong Baby Shark HD 
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:0,PBS KET Kids 
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:0,Zoo Moo 
+https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
+#EXTINF:0,Spacetoon 
+http://bravo.kugo.id:1935/spacetoon/udp.stream/playlist.m3u8
+#EXTINF:0,Duck TV 
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Battery Pop
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8%20
+#EXTINF:0,Animal Planet
+https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,OUTDOR
+https://outdoorchannel-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:0,OutsideTV
+https://outsidetvplus-stirr.amagi.tv/playlistR480p.m3u8
+#EXTINF:0,INWILD
+https://inwild-samsung-uk.amagi.tv/playlist360-p.m3u8
+#EXTINF:0, TasteMade Travel
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0, Xplore
+https://xplore-plex.amagi.tv/playlist.m3u8
+#EXTINF:0,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTINF:0,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:60,Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:0,Smithsonian Channel SD
+https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
+#EXTINF:0, SCI DISCOVERY
+https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015985
+#EXTINF:0, NATGEO WILD
+https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist_b1200000.m3u8?token=bukuantv
+#EXTINF:0, NATIONAL GEOGRAPHIC
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b1200000.m3u8?token=bukuantv
+#EXTINF:0,DISCOVERY Asia
+https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b1200000.m3u8?token=
+#EXTINF:0, National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0, IAMTV
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+#EXTINF:0,PEOPLE ARE AWESOME
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:0,DIGIONE MAXTREME
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:36,FAIL ARMY
+https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:59,WIRED
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_wired_001.m3u8?ads.caid=WIRED&ads.csid=samsungtvplus_ca_wired_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB19&ads._fw_content_genre=technology&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=32&ads.xumo_contentName=CondeNastWired&ads.xumo_providerId=32&ads.xumo_providerName=CondeNastWired&ads.xumo_channelId=9991515&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:60,InWonder
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-inwondercanada/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:36,WeatherSpy
+https://d8d90e09ccf64953ad3243fd6dd587de.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_WeatherSpy/playlist.m3u8?ads.wurl_channel=388&ads.wurl_name=WeatherSpy&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:0,Stingray Naturescape
+https://66a27e77ea6b452f9eac362430206903.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_StingrayNaturescape/playlist.m3u8?ads.wurl_channel=480&ads.wurl_name=StingrayNaturescape&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:0,eScapes
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_escapes_001.m3u8?ads.caid=eScapes&ads.csid=samsungtvplus_ca_escapes_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB20&ads._fw_content_genre=travel&ads._fw_content_language=en%2Cfr-CA%2Cfr&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=209&ads.xumo_contentName=eScapes&ads.xumo_providerId=209&ads.xumo_providerName=eScapes&ads.xumo_channelId=9991509&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:0,1HD
+http://st1.astra-uk.ru:81/5c5817bdb4c149e2a52473a954cdfbfe/playlist.m3u8%20
+#EXTINF:60,Techstorm
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+#EXTINF:432, TVOne
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+#EXTINF:360, Metro TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
+#EXTINF:0, Kompas TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
+#EXTINF:0, TVRI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
+#EXTINF:360, Berita Satu
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb446503011668def857b1c03bafabba51
